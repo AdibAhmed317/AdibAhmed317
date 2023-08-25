@@ -1,7 +1,5 @@
 ### Hi there 👋, I'm Adib Ahmed
 #### I am a Full Stack Web Developer
-![I am a Full Stack Web Developer](https://scontent.fdac157-1.fna.fbcdn.net/v/t39.30808-6/278523713_3248615565361565_498519223244299180_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=174925&_nc_ohc=ECvzPzRhYoMAX-ZKtqJ&_nc_ht=scontent.fdac157-1.fna&oh=00_AfC-nsGJo4_-Xkkb4WfOHcmUOoauIHeuXgfwjc5bpylGkg&oe=64EDF177)
-
  I am a recent Computer Science graduate who is highly motivated and pays great attention to detail. My passion lies in web development, and I am excited to utilize my knowledge and skills to design captivating and user-friendly websites. I am actively seeking a stimulating role as a web developer, where I can contribute to the progress and achievements of a forward-thinking organization.
 
 Skills: REACT / Next JS / HTML / CSS / Asp.Net / NodeJs / ExpressJs / MongoDB 
@@ -14,4 +12,5 @@ Skills: REACT / Next JS / HTML / CSS / Asp.Net / NodeJs / ExpressJs / MongoDB
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=AdibAhmed317&show_icons=true)  
 
-![Profile views](https://gpvc.arturio.dev/AdibAhmed317)  
+![GitHub streak stats](https://streak-stats.demolab.com/?user=AdibAhmed317)  
+
