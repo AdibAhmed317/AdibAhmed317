@@ -1,5 +1,5 @@
 # 💫 About Me:
-Full Stack Web Developer<br>I am a recent Computer Science graduate who is highly motivated and pays great attention to detail. My passion lies in web development, and I am excited to utilize my knowledge and skills to design captivating and user-friendly websites. I am actively seeking a stimulating role as a web developer, where I can contribute to the progress and achievements of a forward-thinking organization.
+Full Stack Software Engineer<br>I am a Computer Science graduate who is highly motivated and pays great attention to detail. My passion lies in web and mobile development, and I am excited to utilize my knowledge and skills to design captivating and user-friendly websites and mobile apps. I am actively seeking a stimulating role as a web/mobile app developer, where I can contribute to the progress and achievements of a forward-thinking organization.
 
 
 ## 🌐 Socials:
