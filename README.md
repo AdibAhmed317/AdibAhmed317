@@ -12,9 +12,6 @@ Full Stack Software Engineer<br>I am a Computer Science and Engineering graduate
 ![](https://github-readme-streak-stats.herokuapp.com/?user=AdibAhmed317&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AdibAhmed317&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact) 
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=AdibAhmed317&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=AdibAhmed317&icon=2&color=6)](https://visitcount.itsvg.in)
 
